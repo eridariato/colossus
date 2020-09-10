@@ -1,2 +1,4 @@
-def add():
-def substract():
+def add(a, b):
+    a + b
+def substract(a, b):
+    a - b
